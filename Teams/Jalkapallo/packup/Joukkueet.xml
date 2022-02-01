@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<ArrayOfPelaaja xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pelaaja>
+    <Nimi>Brend</Nimi>
+    <Snimi>Leno</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>10</Pelaajanumero>
+    <Pelipaikka>Maalivahti</Pelipaikka>
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Aaron</Nimi>
+    <Snimi>Ramsdale</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>11</Pelaajanumero>
+    <Pelipaikka>Maalivahti</Pelipaikka>
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Arthur</Nimi>
+    <Snimi>Okonkwo</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>12</Pelaajanumero>
+    <Pelipaikka>Maalivahti</Pelipaikka>
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Kiran</Nimi>
+    <Snimi>Tierney</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>13</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Ben</Nimi>
+    <Snimi>White</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>14</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi />
+    <Snimi>Gabriel</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>15</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Rob</Nimi>
+    <Snimi>Holding</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>16</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi />
+    <Snimi>Cedric</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>17</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Takehiro</Nimi>
+    <Snimi>Tomiyasu</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>18</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Nuno</Nimi>
+    <Snimi>Tavares</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>19</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Calum</Nimi>
+    <Snimi>Chambers</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>20</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Pablo</Nimi>
+    <Snimi>Mari</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>21</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Sead</Nimi>
+    <Snimi>Kolasinac</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>22</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi />
+    <Snimi>Thomas</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>23</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Bukayo</Nimi>
+    <Snimi>Saka</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>24</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Martin</Nimi>
+    <Snimi>Odegaard</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>25</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Emile</Nimi>
+    <Snimi>Smith Rowe</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>26</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Ainsley</Nimi>
+    <Snimi>Maitland-Niles</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>27</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Albert</Nimi>
+    <Snimi>Lokonga</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>27</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Mohamed</Nimi>
+    <Snimi>Alneny</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>27</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Granit</Nimi>
+    <Snimi>Xhaka</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>27</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Alexandre</Nimi>
+    <Snimi>Lacazette</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>27</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Pierre-emerick</Nimi>
+    <Snimi>Aubameyang</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>27</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Nicolas</Nimi>
+    <Snimi>Pepe</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>27</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Folarin</Nimi>
+    <Snimi>Balogun</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>27</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Eddie</Nimi>
+    <Snimi>Nketiah</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>27</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Gabriel</Nimi>
+    <Snimi>Martinelli</Snimi>
+    <Joukkue>Arsenal</Joukkue>
+    <Pelaajanumero>27</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+</ArrayOfPelaaja>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Sami</Nimi>
+    <Snimi>Lahti</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>10</Pelaajanumero>
+    <Pelipaikka>Hyökkääjä</Pelipaikka>
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Jukka</Nimi>
+    <Snimi>Kinnunen</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>11</Pelaajanumero>
+    <Pelipaikka>Hyökkääjä</Pelipaikka>
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Mikko</Nimi>
+    <Snimi>Pääkkönen</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>12</Pelaajanumero>
+    <Pelipaikka>Hyökkääjä</Pelipaikka>
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Veijo</Nimi>
+    <Snimi>Pitkänen</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>13</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Ville</Nimi>
+    <Snimi>Berg</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>14</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Ulla</Nimi>
+    <Snimi>Huttunen-Finta</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>15</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Jussi</Nimi>
+    <Snimi>Koistinen</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>16</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Keijo</Nimi>
+    <Snimi>Kuosmanen</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>17</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Pasi</Nimi>
+    <Snimi>Liimatainen</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>18</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Teija</Nimi>
+    <Snimi>Tossavainen</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>19</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Maija</Nimi>
+    <Snimi>Huuskonen</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>20</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Niina</Nimi>
+    <Snimi>Hyvönen</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>21</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Janne</Nimi>
+    <Snimi>Koponen</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>22</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Kimmo</Nimi>
+    <Snimi>Myllymäki</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>23</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Mika</Nimi>
+    <Snimi>Vanhanen</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>24</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Tuukka</Nimi>
+    <Snimi>Heiskanen</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>25</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Satu</Nimi>
+    <Snimi>Huusaari</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>26</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+  <Pelaaja>
+    <Nimi>Markus</Nimi>
+    <Snimi>Kellomäki</Snimi>
+    <Joukkue>Savonia</Joukkue>
+    <Pelaajanumero>27</Pelaajanumero>
+    <Pelipaikka />
+    <Laji>Jalkapallo</Laji>
+  </Pelaaja>
+</ArrayOfPelaaja>

@@ -1,0 +1,129 @@
+       
+
+            joukkuetilastot = DeserializeXMLJoukkuetilastot();
+            dgwTilastot.DataSource = joukkuetilastot;
+            ottelutilastot = DeserializeXMLOttelutilastot();
+            dgwPelatutottelut.DataSource = ottelutilastot;
+            pelaajatilastot = DeserializeXMLpelaajatilastot();
+            dgtPelaajatilastot.DataSource = pelaajatilastot;
+
+
+
+        private void btnTallennaTilastot_Click(object sender, EventArgs e)
+        {//Tallentaa kaikki tilastot
+
+
+            SerializeXMLJoukkuetilastot(joukkuetilastot);
+            dgwTilastot.DataSource = null;
+            dgwTilastot.DataSource = joukkuetilastot;
+
+
+
+            SerializeXMLOttelutilastot(ottelutilastot);
+            dgwPelatutottelut.DataSource = null;
+            dgwPelatutottelut.DataSource = ottelutilastot;
+
+
+            SerializeXMPelaajatilastot(pelaajatilastot);
+            dgtPelaajatilastot.DataSource = null;
+            dgtPelaajatilastot.DataSource = pelaajatilastot;
+        }
+
+
+
+
+
+
+
+
+
+
+ public List<Pelaajatilastot> DeserializeXMLpelaajatilastot()
+        {
+            string polku = oikopolku.lyhyt + "Pelaajatilasot.xml";
+
+
+            if (File.Exists(polku))
+            {
+                StreamReader stream = new StreamReader(polku);
+                System.Xml.Serialization.XmlSerializer ser =
+                new System.Xml.Serialization.XmlSerializer(typeof(List<Pelaajatilastot>));
+                object obj = ser.Deserialize(stream);
+                stream.Close();
+                return (List<Pelaajatilastot>)obj;
+            }
+            else
+                return null;
+
+        }
+        public List<Joukkuetilastot> DeserializeXMLJoukkuetilastot()
+        {
+            string polku = oikopolku.lyhyt + "Joukkuetilastot.xml";
+
+
+            if (File.Exists(polku))
+            {
+                StreamReader stream = new StreamReader(polku);
+                System.Xml.Serialization.XmlSerializer ser =
+                new System.Xml.Serialization.XmlSerializer(typeof(List<Joukkuetilastot>));
+                object obj = ser.Deserialize(stream);
+                stream.Close();
+                return (List<Joukkuetilastot>)obj;
+            }
+            else
+                return null;
+
+        }
+        public List<Ottelutilastot> DeserializeXMLOttelutilastot()
+        {
+            string polku = oikopolku.lyhyt + "Ottelutilastot.xml";
+
+
+            if (File.Exists(polku))
+            {
+                StreamReader stream = new StreamReader(polku);
+                System.Xml.Serialization.XmlSerializer ser =
+                new System.Xml.Serialization.XmlSerializer(typeof(List<Ottelutilastot>));
+                object obj = ser.Deserialize(stream);
+                stream.Close();
+                return (List<Ottelutilastot>)obj;
+            }
+            else
+                return null;
+
+        }
+        public void SerializeXMLJoukkuetilastot(List<Joukkuetilastot> input)
+        {
+            string Joukkuetilastot = oikopolku.lyhyt + "Joukkuetilastot.xml";
+            System.Xml.Serialization.XmlSerializer jot =
+            new System.Xml.Serialization.XmlSerializer(input.GetType());
+            StreamWriter jotilastot = new StreamWriter(Joukkuetilastot);
+            jot.Serialize(jotilastot, input);
+            jotilastot.Close();
+        }
+        public void SerializeXMLOttelutilastot(List<Ottelutilastot> input)
+        {
+            string Ottelutilastot = oikopolku.lyhyt + "Ottelutilastot.xml";
+            System.Xml.Serialization.XmlSerializer jt =
+            new System.Xml.Serialization.XmlSerializer(input.GetType());
+            StreamWriter jtilastot = new StreamWriter(Ottelutilastot);
+            jt.Serialize(jtilastot, input);
+            jtilastot.Close();
+
+        }
+        public void SerializeXMPelaajatilastot(List<Pelaajatilastot> input)
+        {
+            string Pelaajatilastot = oikopolku.lyhyt + "Pelaajatilasot.xml";
+            System.Xml.Serialization.XmlSerializer pt =
+            new System.Xml.Serialization.XmlSerializer(input.GetType());
+            StreamWriter piilastot = new StreamWriter(Pelaajatilastot);
+            pt.Serialize(piilastot, input);
+            piilastot.Close();
+
+        }
+
+
+
+
+
+

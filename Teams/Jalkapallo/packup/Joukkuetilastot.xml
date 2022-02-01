@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfJoukkuetilastot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Joukkuetilastot>
+    <nimi>Arsenal</nimi>
+    <voitto>0</voitto>
+    <tasapeli>0</tasapeli>
+    <tappio>0</tappio>
+    <pisteet>0</pisteet>
+  </Joukkuetilastot>
+  <Joukkuetilastot>
+    <nimi>Savonia</nimi>
+    <voitto>0</voitto>
+    <tasapeli>0</tasapeli>
+    <tappio>0</tappio>
+    <pisteet>0</pisteet>
+  </Joukkuetilastot>
+</ArrayOfJoukkuetilastot>

@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<ArrayOfOttelutilastot>
+  <Ottelutilastot>
+    <pvm>0</pvm>
+    <koti>0</koti>
+    <vieras>0</vieras>
+    <voitto>0</voitto>
+    <tasapeli>0</tasapeli>
+    <havio>0</havio>
+  </Ottelutilastot>
+</ArrayOfOttelutilastot>

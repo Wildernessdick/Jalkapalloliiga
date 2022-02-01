@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPelaaja xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pelaaja>
+    <nimi>Brend</nimi>
+    <snimi>Leno</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>10</pelaajanumero>
+    <pelipaikka>Maalivahti</pelipaikka>
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Aaron</nimi>
+    <snimi>Ramsdale</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>11</pelaajanumero>
+    <pelipaikka>Maalivahti</pelipaikka>
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Arthur</nimi>
+    <snimi>Okonkwo</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>12</pelaajanumero>
+    <pelipaikka>Maalivahti</pelipaikka>
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Kiran</nimi>
+    <snimi>Tierney</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>13</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Ben</nimi>
+    <snimi>White</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>14</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi />
+    <snimi>Gabriel</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>15</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Rob</nimi>
+    <snimi>Holding</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>16</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi />
+    <snimi>Cedric</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>17</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Takehiro</nimi>
+    <snimi>Tomiyasu</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>18</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Nuno</nimi>
+    <snimi>Tavares</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>19</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Calum</nimi>
+    <snimi>Chambers</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>20</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Pablo</nimi>
+    <snimi>Mari</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>21</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Sead</nimi>
+    <snimi>Kolasinac</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>22</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi />
+    <snimi>Thomas</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>23</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Bukayo</nimi>
+    <snimi>Saka</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>24</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Martin</nimi>
+    <snimi>Odegaard</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>25</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Emile</nimi>
+    <snimi>Smith Rowe</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>26</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Ainsley</nimi>
+    <snimi>Maitland-Niles</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>27</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Albert</nimi>
+    <snimi>Lokonga</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>27</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Mohamed</nimi>
+    <snimi>Alneny</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>27</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Granit</nimi>
+    <snimi>Xhaka</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>27</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Alexandre</nimi>
+    <snimi>Lacazette</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>27</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Pierre-emerick</nimi>
+    <snimi>Aubameyang</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>27</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Nicolas</nimi>
+    <snimi>Pepe</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>27</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Folarin</nimi>
+    <snimi>Balogun</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>27</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Eddie</nimi>
+    <snimi>Nketiah</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>27</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+  <Pelaaja>
+    <nimi>Gabriel</nimi>
+    <snimi>Martinelli</snimi>
+    <joukkue>Arsenal</joukkue>
+    <pelaajanumero>27</pelaajanumero>
+    <pelipaikka />
+  </Pelaaja>
+</ArrayOfPelaaja>
