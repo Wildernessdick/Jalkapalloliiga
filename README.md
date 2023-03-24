@@ -1,3 +1,8 @@
+#VANHEMPI PROJEKTI
+
+Tämä on toisen ohjelmointikurssin päättötyö, Mikä vaatisi paaaljon korjauksia.
+
+
 # Jalkapalloliiga
 Ohjelmointi 2 "Päättötyö"
 
